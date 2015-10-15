@@ -1,0 +1,26 @@
+{
+  "coinCollection": [
+    {
+      "id": "100",
+      "year": "1992",
+      "coinType": "lincolnPenny",
+      "goldContent": 0,
+      "silverContent": 0
+    },
+    {
+      "id": "101",
+      "year": "1978",
+      "coinType": "PST64Q",
+      "goldContent": 0,
+      "silverContent": 0
+    },
+    {
+      "id": "102",
+      "year": "1978",
+      "coinType": "PRE64H",
+      "goldContent": 0,
+      "silverContent": 11.25
+    }
+  ]
+}
+

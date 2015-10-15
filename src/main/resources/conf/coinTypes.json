@@ -1,0 +1,22 @@
+{
+  "coinTypes": [
+    {
+      "coinType": "lincolnPenny",
+      "description" : "Lincoln Penny",
+      "goldContent": 0,
+      "silverContent": 0
+    },
+    {
+      "coinType": "PST64Q",
+      "description" : "Post-1964 Quarter",
+      "goldContent": 0,
+      "silverContent": 0
+    },
+    {
+      "coinType": "PRE64H",
+      "description" : "Pre-1964 Half Dollar",
+      "goldContent": 0,
+      "silverContent": 11.25
+    }
+  ]
+}
